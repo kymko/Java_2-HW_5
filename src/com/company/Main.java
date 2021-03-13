@@ -62,11 +62,7 @@ public class Main {
         list3.addAll(Collections.singleton(str2 + " - " + str7));
         list3.addAll(Collections.singleton(str3 + " - " + str6));
         list3.addAll(Collections.singleton(str4 + " - " + str5));
-        list3.addAll(Collections.singleton(str5 + " - " + str4));
-        list3.addAll(Collections.singleton(str6 + " - " + str3));
-        list3.addAll(Collections.singleton(str7 + " - " + str2));
-        list3.addAll(Collections.singleton(str8 + " - " + str1));
-        list3.addAll(Collections.singleton(str9 + " - " + str0));
+
 
         info(list3);
 
